@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Recmar-igitu88
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently started learning SQL
+- 🌱 I currently started learning SQL
 - 💞️ I’m looking forward for eventful learning experience
 
 
